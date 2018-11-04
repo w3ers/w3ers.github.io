@@ -5,5 +5,9 @@ is_partial: false
 fields:
 - type: tag_list
   hidden: true
+  default:
+  - jQuery
+  - Number converter
+  - WordPress
 pages:
 - _posts/2018-11-04-jquery-number-converter.md
